@@ -1,0 +1,26 @@
+# documentation/requirements.txt
+
+## Technologies Used
+
+### Programming Languages
+- Python: Used for implementing the Perfect Oracle Assistant's backend logic and natural language processing capabilities.
+
+### Frameworks
+- Flask: A lightweight web framework used for building the Perfect Oracle Assistant's RESTful API.
+- TensorFlow: A popular machine learning framework used for implementing the NLP models and dialogue management techniques.
+- React: A JavaScript library used for building the user interface of the Perfect Oracle Assistant.
+
+### Libraries
+- NLTK: A powerful library for natural language processing tasks, used for understanding user queries and intent.
+- Transformers: A library built on top of TensorFlow for implementing state-of-the-art dialogue management techniques, such as attention mechanisms and transformer models.
+- Pandas: A data manipulation library used for creating and maintaining the knowledge base of the Perfect Oracle Assistant.
+- Scikit-learn: A machine learning library used for continuous learning and updating of the knowledge base through machine learning algorithms.
+
+### Databases
+- PostgreSQL: A robust and scalable relational database used for storing structured data related to the Perfect Oracle Assistant's knowledge base.
+
+## Justification
+
+The technologies chosen for the Perfect Oracle Assistant were carefully selected based on their suitability for the project requirements. Python was chosen as the primary programming language due to its extensive libraries and frameworks for natural language processing tasks. Flask was chosen as the web framework for its simplicity and ease of use in building RESTful APIs. TensorFlow was selected for its powerful machine learning capabilities, which are essential for implementing advanced NLP models and dialogue management techniques. React was chosen for its flexibility and ability to create interactive and responsive user interfaces. NLTK and Transformers were selected for their comprehensive NLP capabilities, including understanding user queries and intent. Pandas and Scikit-learn were chosen for their data manipulation and machine learning capabilities, which are crucial for creating and maintaining the knowledge base. Finally, PostgreSQL was chosen as the database for its scalability and reliability in handling structured data.
+
+These technologies, when combined, provide a solid foundation for building the Perfect Oracle Assistant with advanced AI capabilities, seamless conversation flow, intuitive user interface, and robust security measures.
